@@ -20,7 +20,7 @@ Integrantes:
 
 # login
 
-![Employee data](img/inicio.jpeg)
+![Employee data](img/incio.jpeg)
 
 # provedor
 
